@@ -1,13 +1,4 @@
-package com.example.recipefood
-
-<?xml version="1.0" encoding="utf-8"?>
-<rotate xmlns:android="http://schemas.android.com/apk/res/android"
-    android:fromDegrees="0"
-    android:toDegrees="360"
-    android:pivotX="50%"
-    android:pivotY="50%"
-    android:repeatCount="infinite"
-    android:duration="1000" />
+package com.example.recipefood;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -19,7 +10,7 @@ import android.widget.ImageView;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.resepmakananv2.view.MainActivity;
+import com.example.recipefood.view.MainActivity;
 
 public class SplashActivity extends AppCompatActivity {
 
