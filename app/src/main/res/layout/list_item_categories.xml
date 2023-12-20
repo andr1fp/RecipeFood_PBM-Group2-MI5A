@@ -5,7 +5,7 @@
     <data>
         <variable
             name="category"
-            type="com.example.resepmakananv2.model.ModelMain" />
+            type="com.example.recipefood.model.ModelMain" />
     </data>
 
     <androidx.cardview.widget.CardView

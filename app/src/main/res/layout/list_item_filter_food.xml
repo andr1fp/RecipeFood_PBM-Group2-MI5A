@@ -5,7 +5,7 @@
     <data>
         <variable
             name="modelFilter"
-            type="com.example.resepmakananv2.model.ModelFilter" />
+            type="com.example.recipefood.model.ModelFilter" />
     </data>
 
     <androidx.cardview.widget.CardView

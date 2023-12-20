@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.resepmakananv2.viewmodel.MainViewModel" />
+            type="com.example.recipefood.viewmodel.MainViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
