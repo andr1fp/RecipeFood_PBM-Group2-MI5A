@@ -1,4 +1,4 @@
-package com.example.resepmakananv2.model;
+package com.example.recipefood.model;
 
 import java.io.Serializable;
 
