@@ -33,6 +33,25 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
+
+        <!-- Aktivitas FilterFoodActivity -->
+        <activity
+            android:name=".view.FilterFoodActivity"
+            android:parentActivityName=".view.MainActivity">
+            <meta-data
+                android:name="androidx.core.app.NavUtils.PARENT_ACTIVITY"
+                android:value=".view.MainActivity" />
+        </activity>
+
+        <!-- Aktivitas DetailRecipeActivity -->
+        <activity
+            android:name=".view.DetailRecipeActivity"
+            android:parentActivityName=".view.MainActivity">
+            <meta-data
+                android:name="androidx.core.app.NavUtils.PARENT_ACTIVITY"
+                android:value=".view.MainActivity" />
+        </activity>
+        
     </application>
 
 </manifest>
